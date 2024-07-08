@@ -14,3 +14,4 @@ Bu basit Python projesi, Tkinter kütüphanesi kullanılarak geliştirilmiş bir
 - Oyunu başlatmak için "Enter" tuşuna basın.
 - Kelimenin doğru yazılıp yazılmadığını kontrol edin ve giriş kutusuna cevabı yazın.
 - Kalan süre bittiğinde, toplam doğru ve yanlış kelime sayısı ile seviye değerlendirmesi ekranda gösterilir.
+![Ekran görüntüsü 2024-07-08 205644](https://github.com/tubaebiri/klavye_hiz_testi/assets/87576704/2aef0de5-e3d7-4810-ba99-6efcd2abe1f8)
