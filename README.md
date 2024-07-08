@@ -1,5 +1,5 @@
 # Klavye-Hiz-Testi
-Bu Python uygulaması, Tkinter kütüphanesi kullanılarak geliştirilmiş bir klavye hız testi programıdır. Programın amacı, belirli bir süre içinde doğru kelimeleri hızlı bir şekilde yazarak puan kazanmaktır.
+Bu basit Python projesi, Tkinter kütüphanesi kullanılarak geliştirilmiş bir klavye hız testi programıdır. Programın amacı, belirli bir süre içinde doğru kelimeleri hızlı bir şekilde yazarak puan kazanmaktır.
 
 ## Özellikler
 
